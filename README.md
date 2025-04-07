@@ -27,6 +27,7 @@
 ![SCSS](https://img.shields.io/badge/-SCSS-0D1117?style=for-the-badge&logo=sass)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript)&nbsp;
+![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql)&nbsp;
@@ -46,7 +47,16 @@
 
 ---
 
-## 💻 Sistemas Operacionais
+## 💻 IDEs e Banco de Dados
+
+![VS Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=for-the-badge&logo=visual-studio-code)&nbsp;
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-0D1117?style=for-the-badge&logo=intellij-idea)&nbsp;
+![DBeaver](https://img.shields.io/badge/-DBeaver-0D1117?style=for-the-badge&logo=dbeaver)&nbsp;
+![MySQL Workbench](https://img.shields.io/badge/-MySQL_Workbench-0D1117?style=for-the-badge&logo=mysql)&nbsp;
+
+---
+
+## 🖥️ Sistemas Operacionais
 
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux)&nbsp;
