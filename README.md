@@ -74,8 +74,9 @@
 ## 📚 Estudando Atualmente
 
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php)&nbsp;
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react)&nbsp;
 
 ---
 
