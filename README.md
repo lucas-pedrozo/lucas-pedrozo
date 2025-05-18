@@ -17,7 +17,7 @@
   </a>
 </div> 
 
----
+----
 
 ## 🧠 Conhecimentos Principais
 
