@@ -15,9 +15,6 @@
   <a href="https://www.instagram.com/lucas__pedrozo?igsh=ZndteTJiaTB4OTZu" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-<!--   <a href="https://www.instagram.com/lucas__pedrozo?igsh=ZndteTJiaTB4OTZu" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a> -->
 </div> 
 
 ---
@@ -83,11 +80,5 @@
 
 ---
 
-<div align="center">
-  <br>
-  <p><b>Visitantes no perfil:</b></p>  
-  <img src="https://profile-counter.glitch.me/{lucas-pedrozo}/count.svg" />
-  <br>
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=710071&height=120&section=footer"/>
