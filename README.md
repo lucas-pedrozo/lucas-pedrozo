@@ -11,10 +11,13 @@
   <img src="https://github-profile-trophy.vercel.app/?username=lucas-pedrozo&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-<div align="center">  
+<div align="center" display="flex" gap="10px">  
   <a href="https://www.instagram.com/lucas__pedrozo?igsh=ZndteTJiaTB4OTZu" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+<!--   <a href="https://www.instagram.com/lucas__pedrozo?igsh=ZndteTJiaTB4OTZu" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a> -->
 </div> 
 
 ---
