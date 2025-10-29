@@ -1,84 +1,100 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=710071&height=120&section=header"/>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucas-pedrozo&show_icons=true&count_private=true&hide_border=true&title_color=710071&icon_color=710071&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Carvalho Pedrozo github stats" /> 
+<div align="center">
+  
+  # Olá! Eu sou o Lucas Pedrozo 👋
+  
+  <p>Sou um desenvolvedor focado em criar experiências de usuário bonitas e funcionais.
+  <br/>
+  Atualmente mergulhado em PHP, TypeScript, JavaScript e React.</p>
+
+  <a href="https://www.instagram.com/lucas__pedrozo?igsh=ZndteTJiaTB4OTZu" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+  </a>
+  </div>
+
+---
+
+### 📊 Minhas Estatísticas
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucas-pedrozo&show_icons=true&count_private=true&hide_border=true&title_color=710071&icon_color=710071&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas do GitHub de Lucas Carvalho Pedrozo" />
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-pedrozo&layout=compact&hide_border=true&title_color=710071&text_color=710071&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lucas-pedrozo&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br/>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lucas-pedrozo&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucas-pedrozo&bg_color=0d1117&color=c9d1d9&line=710071&point=9f409f&area=true&hide_border=true" alt="Gráfico de Atividade do GitHub" />
 </p>
 
-<div align="center" display="flex" gap="10px">  
-  <a href="https://www.instagram.com/lucas__pedrozo?igsh=ZndteTJiaTB4OTZu" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</div> 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lucas-pedrozo&theme=onedark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
 ---
 
-## 🧠 Conhecimentos Principais
+### 🧠 Conhecimentos Principais
 
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3)&nbsp;
-![SASS](https://img.shields.io/badge/-SASS-0D1117?style=for-the-badge&logo=sass)&nbsp;
-![SCSS](https://img.shields.io/badge/-SCSS-0D1117?style=for-the-badge&logo=sass)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript)&nbsp;
-![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react)&nbsp;
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql)&nbsp;
-
----
-
-## 🔧 Ferramentas e Tecnologias
-
-![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-0D1117?style=for-the-badge&logo=tailwind-css)&nbsp;
-![ShadCN UI](https://img.shields.io/badge/-ShadCN_UI-0D1117?style=for-the-badge&logo=react)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github)&nbsp;
-![GitHub Desktop](https://img.shields.io/badge/-GitHub_Desktop-0D1117?style=for-the-badge&logo=github)&nbsp;
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="SASS" title="SASS"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" title="PHP"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL"/>&nbsp;
+</p>
 
 ---
 
-## 💻 IDEs e Banco de Dados
+### 🔧 Ferramentas e Tecnologias
 
-![VS Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=for-the-badge&logo=visual-studio-code)&nbsp;
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-0D1117?style=for-the-badge&logo=intellij-idea)&nbsp;
-![DBeaver](https://img.shields.io/badge/-DBeaver-0D1117?style=for-the-badge&logo=dbeaver)&nbsp;
-![MySQL Workbench](https://img.shields.io/badge/-MySQL_Workbench-0D1117?style=for-the-badge&logo=mysql)&nbsp;
-
----
-
-## 🖥️ Sistemas Operacionais
-
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux)&nbsp;
-![macOS](https://img.shields.io/badge/-macOS-0D1117?style=for-the-badge&logo=apple)&nbsp;
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" title="Bootstrap"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" title="GitHub"/>&nbsp;
+</p>
 
 ---
 
-## 🎨 Design e Prototipagem
+### 💻 IDEs, DBs e OS
 
-![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma)&nbsp;
-![Adobe](https://img.shields.io/badge/-Adobe_Creative_Cloud-0D1117?style=for-the-badge&logo=adobe-creative-cloud)&nbsp;
-
----
-
-## 📚 Estudando Atualmente
-
-![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react)&nbsp;
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" title="VS Code"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ IDEA" title="IntelliJ IDEA"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" height="40" alt="DBeaver" title="DBeaver"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL Workbench" title="MySQL Workbench"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="Windows" title="Windows"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" title="Linux"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="macOS" title="macOS"/>&nbsp;
+</p>
 
 ---
 
+### 🎨 Design e Prototipagem
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" title="Figma"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="Adobe Photoshop" title="Adobe Photoshop"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="Adobe Illustrator" title="Adobe Illustrator"/>&nbsp;
+</images>
+</p>
+
+---
+
+### 📚 Estudando Atualmente
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" title="PHP"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React"/>&nbsp;
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=710071&height=120&section=footer"/>
