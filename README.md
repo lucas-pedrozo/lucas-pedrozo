@@ -13,7 +13,7 @@ Formado como Técnico Agropecuário, venho direcionando minha carreira para a á
 Complemento meu perfil com uma trajetória sólida de mais de 3 anos no setor audiovisual, com domínio do Pacote Adobe, atuando em edição de vídeos e Motion Designer.
 
 * 📍 Baseado em Juranda, PR.
-* 🎓 Estudante de ADS no Senac.
+* 🎓 Estudante de ADS Integrado de campo Mourão.
 * 🎥 +3 anos de experiência em Audiovisual (Motion Design & Edição).
 * 💻 +1 ano de experiência em Desenvolvimento Full Stack.
 
