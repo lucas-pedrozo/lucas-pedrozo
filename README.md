@@ -8,7 +8,9 @@
 
 ### 👤 Sobre Mim
 
-Olá! Sou **Lucas Carvalho Pedrozo**, desenvolvedor apaixonado por criar soluções digitais e experiências visuais impactantes. Com formação técnica e foco em **Análise e Desenvolvimento de Sistemas**, busco unir a lógica da programação com a estética do design.
+Lucas Carvalho Pedrozo
+Formado como Técnico Agropecuário, venho direcionando minha carreira para a área de Desenvolvimento de Software, onde já somo mais de 1 ano de experiência técnica. Tenho proficiência em tecnologias modernas como HTML, CSS, JavaScript, TypeScript, PHP, JAVA e MySQL, além de ampla experiência com o ecossistema React (React.js e React Native) e Node.js.
+Complemento meu perfil com uma trajetória sólida de mais de 3 anos no setor audiovisual, com domínio do Pacote Adobe, atuando em edição de vídeos e Motion Designer.
 
 * 📍 Baseado em Juranda, PR.
 * 🎓 Estudante de ADS no Senac.
