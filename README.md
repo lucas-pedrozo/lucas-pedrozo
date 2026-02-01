@@ -63,17 +63,6 @@ Olá! Sou **Lucas Carvalho Pedrozo**, desenvolvedor apaixonado por criar soluç�
   </tr>
 </table>
 
----
-
-### 📊 Estatísticas
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-pedrozo&show_icons=true&theme=dark&bg_color=181818&title_color=ffffff&text_color=bbbbbb&icon_color=ffffff&border_color=333333" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-pedrozo&layout=compact&theme=dark&bg_color=181818&title_color=ffffff&text_color=bbbbbb&icon_color=ffffff&border_color=333333" />
-</div>
-
----
-
 ### 🌐 Conecte-se Comigo
 
 <div align="center">
