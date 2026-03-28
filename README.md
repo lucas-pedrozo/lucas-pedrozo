@@ -36,12 +36,37 @@ Complemento meu perfil com uma trajetória sólida de mais de 3 anos no setor au
     <td width="50%" valign="top">
       <strong>Back-end & Database</strong><br />
       <img src="https://img.shields.io/badge/Node.js-181818?style=for-the-badge&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/PHP-262626?style=for-the-badge&logo=php&logoColor=white" />
-      <img src="https://img.shields.io/badge/Laravel-333333?style=for-the-badge&logo=laravel&logoColor=white" />
-      <img src="https://img.shields.io/badge/Java-404040?style=for-the-badge&logo=java&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express-262626?style=for-the-badge&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/NestJS-333333?style=for-the-badge&logo=nestjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/PHP-404040?style=for-the-badge&logo=php&logoColor=white" />
       <br />
-      <img src="https://img.shields.io/badge/Spring_Boot-181818?style=for-the-badge&logo=springboot&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-262626?style=for-the-badge&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Laravel-181818?style=for-the-badge&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-262626?style=for-the-badge&logo=java&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring_Boot-333333?style=for-the-badge&logo=springboot&logoColor=white" />
+      <br />
+      <img src="https://img.shields.io/badge/TypeORM-404040?style=for-the-badge&logo=typeorm&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-181818?style=for-the-badge&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MariaDB-262626?style=for-the-badge&logo=mariadb&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Creative (Adobe Suite)</strong><br />
+      <img src="https://img.shields.io/badge/Premiere_Pro-181818?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
+      <img src="https://img.shields.io/badge/After_Effects-262626?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
+      <img src="https://img.shields.io/badge/Photoshop-333333?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <strong>DevOps & Tools</strong><br />
+      <img src="https://img.shields.io/badge/Docker-181818?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-262626?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white" />
+      <img src="https://img.shields.io/badge/Swagger-404040?style=for-the-badge&logo=swagger&logoColor=white" />
     </td>
   </tr>
 </table>
