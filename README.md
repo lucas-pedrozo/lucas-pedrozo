@@ -22,12 +22,6 @@
 
 <br />
 
-### `[03]` ~/motion
-
-> reel em breve. [ver trabalhos de motion ↗](https://www.instagram.com/lucas__pedrozo)
-
-<br />
-
 <div align="center">
   <sub><code>$ echo "obrigado por passar por aqui"</code></sub>
 </div>
