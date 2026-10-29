@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/hero.svg" width="100%" alt="Lucas Pedrozo — desenvolvedor full stack e motion designer" />
+  <img src="hero.svg" width="100%" alt="Lucas Pedrozo — desenvolvedor full stack e motion designer" />
 
   <a href="https://www.linkedin.com/in/lucas-pedrozo"><img src="https://img.shields.io/badge/linkedin-↗-0d1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117&color=30363d" /></a>
   <a href="https://github.com/lucas-pedrozo"><img src="https://img.shields.io/badge/github-↗-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
@@ -58,7 +58,7 @@
 
 <!-- Troque o link e duplique o bloco para cada projeto. Edite o texto dentro de assets/project-card.svg (um arquivo por projeto, ex: project-1.svg) -->
 <a href="https://github.com/lucas-pedrozo/NOME-DO-REPO">
-  <img src="assets/project-card.svg" width="100%" alt="Projeto 1" />
+  <img src="project-card.svg" width="100%" alt="Projeto 1" />
 </a>
 
 <br />
