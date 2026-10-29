@@ -8,13 +8,9 @@
 
 <br />
 
-### `[01]` ~/stack
-
 <img src="stack.svg" width="100%" alt="Tecnologias e habilidades" />
 
 <br />
-
-### `[02]` ~/projetos
 
 <a href="https://github.com/lucas-pedrozo/TCC_ADS_appTotalFretes"><img src="card-app.svg" width="100%" alt="TotalFretes App" /></a>
 <a href="https://github.com/lucas-pedrozo/TCC_ADS_TotalFretesEmpresa"><img src="card-empresa.svg" width="100%" alt="TotalFretes Empresa" /></a>
