@@ -1,111 +1,75 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=212121&text=Lucas%20Pedrozo&fontAlignY=45&fontSize=70&fontColor=ffffff&animation=fadeIn" />
+  <img src="assets/hero.svg" width="100%" alt="Lucas Pedrozo — desenvolvedor full stack e motion designer" />
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=30&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Motion+Designer;T%C3%A9cnico+Agropecu%C3%A1rio;Especialista+em+Audiovisual)](https://git.io/typing-svg)
-</div>
-
----
-
-### 👤 Sobre Mim
-
-Lucas Carvalho Pedrozo
-Formado como Técnico Agropecuário, venho direcionando minha carreira para a área de Desenvolvimento de Software, onde já somo mais de 1 ano de experiência técnica. Tenho proficiência em tecnologias modernas como HTML, CSS, JavaScript, TypeScript, PHP, JAVA e MySQL, além de ampla experiência com o ecossistema React (React.js e React Native) e Node.js.
-Complemento meu perfil com uma trajetória sólida de mais de 3 anos no setor audiovisual, com domínio do Pacote Adobe, atuando em edição de vídeos e Motion Designer.
-
-* 📍 Baseado em Juranda, PR.
-* 🎓 Estudante de ADS Integrado de campo Mourão.
-* 🎥 +3 anos de experiência em Audiovisual (Motion Design & Edição).
-* 💻 +1 ano de experiência em Desenvolvimento Full Stack.
-
----
-
-### 🚀 Tecnologias & Habilidades
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Front-end & Mobile</strong><br />
-      <img src="https://img.shields.io/badge/HTML5-181818?style=for-the-badge&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-262626?style=for-the-badge&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-404040?style=for-the-badge&logo=typescript&logoColor=white" />
-      <br />
-      <img src="https://img.shields.io/badge/React-181818?style=for-the-badge&logo=react&logoColor=white" />
-      <img src="https://img.shields.io/badge/React_Native-262626?style=for-the-badge&logo=react&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <strong>Back-end & Database</strong><br />
-      <img src="https://img.shields.io/badge/Node.js-181818?style=for-the-badge&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Express-262626?style=for-the-badge&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/NestJS-333333?style=for-the-badge&logo=nestjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/PHP-404040?style=for-the-badge&logo=php&logoColor=white" />
-      <br />
-      <img src="https://img.shields.io/badge/Laravel-181818?style=for-the-badge&logo=laravel&logoColor=white" />
-      <img src="https://img.shields.io/badge/Java-262626?style=for-the-badge&logo=java&logoColor=white" />
-      <img src="https://img.shields.io/badge/Spring_Boot-333333?style=for-the-badge&logo=springboot&logoColor=white" />
-      <br />
-      <img src="https://img.shields.io/badge/TypeORM-404040?style=for-the-badge&logo=typeorm&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-181818?style=for-the-badge&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/MariaDB-262626?style=for-the-badge&logo=mariadb&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Creative (Adobe Suite)</strong><br />
-      <img src="https://img.shields.io/badge/Premiere_Pro-181818?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
-      <img src="https://img.shields.io/badge/After_Effects-262626?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
-      <img src="https://img.shields.io/badge/Photoshop-333333?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <strong>DevOps & Tools</strong><br />
-      <img src="https://img.shields.io/badge/Docker-181818?style=for-the-badge&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git-262626?style=for-the-badge&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white" />
-      <img src="https://img.shields.io/badge/Swagger-404040?style=for-the-badge&logo=swagger&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Creative (Adobe Suite)</strong><br />
-      <img src="https://img.shields.io/badge/Premiere_Pro-181818?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
-      <img src="https://img.shields.io/badge/After_Effects-262626?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
-      <img src="https://img.shields.io/badge/Photoshop-333333?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <strong>DevOps & Tools</strong><br />
-      <img src="https://img.shields.io/badge/Docker-181818?style=for-the-badge&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git-262626?style=for-the-badge&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
-### 🌐 Conecte-se Comigo
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/lucas-pedrozo" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=black" />
-  </a>
-  <a href="https://github.com/lucas-pedrozo" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/lucas__pedrozo" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram&logoColor=black" />
-  </a>
+  <a href="https://www.linkedin.com/in/lucas-pedrozo"><img src="https://img.shields.io/badge/linkedin-↗-0d1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117&color=30363d" /></a>
+  <a href="https://github.com/lucas-pedrozo"><img src="https://img.shields.io/badge/github-↗-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
+  <a href="https://www.instagram.com/lucas__pedrozo"><img src="https://img.shields.io/badge/instagram-↗-0d1117?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117&color=30363d" /></a>
 </div>
 
 <br />
 
+### `[01]` ~/stack
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <strong>front-end & mobile</strong><br /><br />
+      <img src="https://img.shields.io/badge/HTML5-181818?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-181818?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-181818?style=flat-square&logo=javascript&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-181818?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-181818?style=flat-square&logo=react&logoColor=white" />
+      <img src="https://img.shields.io/badge/React_Native-181818?style=flat-square&logo=react&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <strong>back-end & banco</strong><br /><br />
+      <img src="https://img.shields.io/badge/Node.js-181818?style=flat-square&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express-181818?style=flat-square&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/NestJS-181818?style=flat-square&logo=nestjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/PHP-181818?style=flat-square&logo=php&logoColor=white" />
+      <img src="https://img.shields.io/badge/Laravel-181818?style=flat-square&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-181818?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring_Boot-181818?style=flat-square&logo=springboot&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeORM-181818?style=flat-square&logo=typeorm&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-181818?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MariaDB-181818?style=flat-square&logo=mariadb&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>motion & audiovisual</strong><br /><br />
+      <img src="https://img.shields.io/badge/After_Effects-181818?style=flat-square&logo=adobeaftereffects&logoColor=white" />
+      <img src="https://img.shields.io/badge/Premiere_Pro-181818?style=flat-square&logo=adobepremierepro&logoColor=white" />
+      <img src="https://img.shields.io/badge/Photoshop-181818?style=flat-square&logo=adobephotoshop&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <strong>devops & ferramentas</strong><br /><br />
+      <img src="https://img.shields.io/badge/Docker-181818?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-181818?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-181818?style=flat-square&logo=linux&logoColor=white" />
+      <img src="https://img.shields.io/badge/Swagger-181818?style=flat-square&logo=swagger&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+<br />
+
+### `[02]` ~/projetos
+
+<!-- Troque o link e duplique o bloco para cada projeto. Edite o texto dentro de assets/project-card.svg (um arquivo por projeto, ex: project-1.svg) -->
+<a href="https://github.com/lucas-pedrozo/NOME-DO-REPO">
+  <img src="assets/project-card.svg" width="100%" alt="Projeto 1" />
+</a>
+
+<br />
+
+### `[03]` ~/motion
+
+<!-- Coloque aqui seu reel/portfólio de motion: um GIF/MP4 curto ou link do Behance/YouTube -->
+> reel em breve. [ver trabalhos de motion ↗](https://www.instagram.com/lucas__pedrozo)
+
+<br />
+
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=212121&height=120&section=footer" />
+  <sub><code>$ echo "obrigado por passar por aqui"</code></sub>
 </div>
