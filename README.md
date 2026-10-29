@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="hero.svg" width="100%" alt="Lucas Pedrozo — desenvolvedor full stack e motion designer" />
+  <img src="hero-v2.svg" width="100%" alt="Lucas Pedrozo — desenvolvedor full stack e motion designer" />
 
   <a href="https://www.linkedin.com/in/lucas-pedrozo"><img src="btn-linkedin.svg" height="46" alt="LinkedIn" /></a>
   <a href="https://github.com/lucas-pedrozo"><img src="btn-github.svg" height="46" alt="GitHub" /></a>
